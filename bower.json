@@ -1,8 +1,8 @@
 {
   "name": "ng-cordova-oauth",
   "main": ["dist/ng-cordova-oauth.js", "dist/ng-cordova-oauth.min.js"],
-  "version": "0.2.3",
-  "homepage": "https://github.com/nraboy/ng-cordova-oauth",
+  "version": "0.2.4",
+  "homepage": "https://github.com/hackeo1/ng-cordova-oauth",
   "authors": [
     "Nic Raboy <http://www.nraboy.com>"
   ],
